@@ -1,0 +1,24 @@
+{{ $limit := .Get "limit" | default 6 }}
+{{ $title := .Get "title" | default (i18n "shortcode.recent_articles" | emojify) }}
+{{ $cardView := .Get "cardView" | default true }}
+{{ $parent := .Page.RelPermalink }}
+
+{{ $include := .Get "include" | default "" }}
+{{ $exclude := .Get "exclude" | default "" }}
+
+{{ $posts := partial "functions/get-posts.html" (dict "ctx" . "include" $include "exclude" $exclude) }}
+
+<h2 class="mt-20 text-2xl font-extrabold mb-10">{{ $title }}</h2>
+
+{{ $partial := "article-link/simple.html" }}
+{{ if $cardView }}
+    {{ $partial = "article-link/card.html" }}
+{{ end }}
+
+<section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+    {{ range ( $posts | first $limit ) }}
+        {{ if not (eq .RelPermalink $parent) }}
+            {{ partial $partial . }}
+        {{ end }}
+    {{ end }}
+</section>

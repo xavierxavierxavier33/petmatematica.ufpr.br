@@ -20,3 +20,7 @@ imagem = "arquivos/banner/j3m.webp"
 alt = "J3M banner"
 href = "/eventos/j3m"
 ` >}}
+
+{{< list limit=6 title="Postagens recentes" exclude="petiscos">}}
+
+{{< list limit=6 title="PETiscos recentes" include="petiscos">}}

@@ -1,0 +1,29 @@
+{{- $args := . -}}
+
+{{ $include := split .include "," }}
+{{ $exclude := split .exclude "," }}
+{{ $posts := slice }}
+
+{{- range $page := .ctx.Site.RegularPages -}}
+    {{- range $tag := $page.Params.tags }}
+        {{ $isOk := le 0 (len $include) }} <!-- se tem include, então começa em false --> 
+    
+        {{- range $pattern := $include -}}
+            {{- if eq $pattern $tag -}}
+                {{ $isOk = true }}
+            {{- end -}}
+        {{- end -}}
+
+        {{- range $pattern := $exclude -}}
+            {{- if eq $pattern $tag -}}
+                {{ $isOk = false }}
+            {{- end -}}
+        {{- end -}}
+
+        {{- if $isOk -}}
+            {{- $posts = append $page $posts -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- return $posts -}}
