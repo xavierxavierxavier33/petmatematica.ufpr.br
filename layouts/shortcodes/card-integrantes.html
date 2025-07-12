@@ -1,14 +1,11 @@
 {{ $page := .Page.Resources }}
-{{ $integrantes := .Site.Data.equipe.integrantes }}
-
-{{ $integrantes = sort $integrantes "nome" }}
+{{ $integrantes := sort .Site.Data.integrantes.integrantes "nome" }}
 
 {{ $images := slice }}
 
 {{ range $integrantes }}
   {{ $images = $images | append (partial "functions/get-resource.html" .imagem) }}
 {{ end }}
-
 
 <div class="grid-cols-2 grid md:grid-cols-3">
   {{ range $index, $integrante := $integrantes }}

@@ -301,12 +301,6 @@ nome = "Kevyan Uehara de Moraes"
 # lattes = "0000000000000000"
 
 [[exIntegrantes]]
-nome = "Kaiky Yuji Ishiy"
-imagem = "/arquivos/equipe/Kaiky.webp"
-lattes = "4688846741560195"
-# orcid = "0000-0003-0804-6145"
-
-[[exIntegrantes]]
 nome = "Lana Muriel Souza dos Santos"
 # lattes = "0000000000000000"
 
@@ -642,7 +636,15 @@ nome = "Érika Sathie Takatsuki"
 # lattes = "0000000000000000"
 
 [[exIntegrantes]]
+nome = "Kaiky Yuji Ishiy"
+id = "kaik.i"
+imagem = "/arquivos/equipe/Kaiky.webp"
+lattes = "4688846741560195"
+# orcid = "0000-0003-0804-6145"
+
+[[exIntegrantes]]
 nome = "Otavio Augusto Salomão Recacho"
+id = "otav.r"
 imagem = "/arquivos/equipe/blank.webp"
 # descricao = ""
 lattes = "7780126747847031"

@@ -1,0 +1,30 @@
+{{- $ctx := . -}}
+
+{{- $integrantes := $ctx.Site.Data.integrantes.integrantes -}}
+{{- $ex_integrantes := $ctx.Site.Data.ex_integrantes.exIntegrantes -}}
+{{- $ex_tutores := $ctx.Site.Data.ex_tutores.exTutores -}}
+{{- $tutor := $ctx.Site.Data.tutor.tutor -}}
+
+{{- $people := collections.NewScratch -}}
+
+{{- range $person := $integrantes -}}
+    {{- if $person.id }}
+        {{ $people.Set $person.id $person }}
+    {{- end -}}
+{{- end -}}
+
+{{- range $person := $ex_integrantes -}}
+    {{- if $person.id }}
+        {{ $people.Set $person.id $person }}
+    {{- end -}}
+{{- end -}}
+
+{{- range $person := $ex_tutores -}}
+    {{- if $person.id }}
+        {{ $people.Set $person.id $person }}
+    {{- end -}}
+{{- end -}}
+
+{{ $people.Set $tutor.id $tutor }}
+
+{{- return $people -}}
