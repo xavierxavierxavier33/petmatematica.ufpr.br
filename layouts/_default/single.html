@@ -69,7 +69,7 @@
         <div
           class="article-content 
             {{ if (.Params.prose | default false) }} max-w-prose {{ else }} max-w-fit {{ end }} 
-            {{ if not .Page.Params.autores }} mb-20 {{ end }}">
+            {{ if not .Page.Params.autores }} mb-20 {{ else }} mb-12 {{ end }}">
           {{ .Content }}
           {{ $defaultReplyByEmail := .Site.Params.replyByEmail }}
           {{ $replyByEmail := default $defaultReplyByEmail .Params.replyByEmail }}
