@@ -5,6 +5,9 @@ draft = true
 
 tags = ["petiscos"]
 eventos = []
+
+showAuthor = true
+autores = ["feli.k"]
 +++
 
 {{< katex >}}

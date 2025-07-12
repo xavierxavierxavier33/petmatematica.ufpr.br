@@ -5,6 +5,9 @@ draft = false
 
 tags = ["petiscos"]
 eventos = []
+
+showAuthor = true
+autores = ["samu.b"]
 +++
 
 Dentre todas as etapas que a história da Matemática presenciou, uma das que mais se destaca está na família Bernoulli. A princípio, quando estamos estudando Física no Ensino Médio, nos deparamos com o chamado Princípio de Bernoulli para fluidos. Avançando um pouco mais e migrando para a Matemática, temos a chamada Desigualdade de Bernoulli. Na teoria das equações diferenciais, encontramos a Equação de Bernoulli, que se trata de uma equação diferencial ordinária não linear de primeira ordem.

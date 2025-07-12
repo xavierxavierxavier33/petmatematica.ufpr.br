@@ -5,6 +5,9 @@ draft = false
 
 tags = ["petiscos"]
 eventos = []
+
+showAuthor = true
+autores = ["luca.x"]
 +++
 
 Na matemática, axiomas são proposições fundamentais aceitas como verdadeiras, sem necessidade de demonstração. Eles constituem a base sólida sobre a qual toda a estrutura lógica da disciplina é erigida, permitindo o desenvolvimento sucessivo de proposições, teoremas e corolários cada vez mais complexos, sempre assentados nesses blocos primordiais. Assim, a matemática se configura como um sistema rigoroso e internamente coerente, ainda que as chamadas “verdades” que a sustentam sejam, em última instância, escolhas deliberadas feitas para garantir a consistência desse edifício lógico. O Axioma da Escolha, tema central deste texto, representa um dos exemplos mais fascinantes de como a adoção de determinados postulados pode transformar profundamente a paisagem matemática — e de como a intuição nem sempre é o guia mais seguro para a definição dessas verdades fundamentais.

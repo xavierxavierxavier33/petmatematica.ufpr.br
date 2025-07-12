@@ -5,6 +5,9 @@ draft = false
 
 tags = ["petiscos"]
 eventos = []
+
+showAuthor = true
+autores = ["ana.h"]
 +++
 
 {{< katex >}}

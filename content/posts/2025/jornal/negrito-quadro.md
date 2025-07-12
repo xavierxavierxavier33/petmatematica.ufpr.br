@@ -7,7 +7,7 @@ tags = ["petiscos"]
 eventos = []
 
 showAuthor = true
-autores = ["feli.k",]
+autores = ["feli.k"]
 +++
 
 {{< katex >}}

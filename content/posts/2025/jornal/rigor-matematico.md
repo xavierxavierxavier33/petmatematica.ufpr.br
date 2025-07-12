@@ -5,6 +5,9 @@ draft = false
 
 tags = ["petiscos"]
 eventos = []
+
+showAuthor = true
+autores = ["samu.b"]
 +++
 
 A história da Matemática, assim como a de outras áreas do conhecimento, é, sem dúvida alguma, um claro registro de como todo saber é construído peça por peça, respeitando-se cada etapa. Um divisor de águas em toda essa trajetória é a criação (ou descoberta?) do que hoje conhecemos como Cálculo Diferencial e Integral.
