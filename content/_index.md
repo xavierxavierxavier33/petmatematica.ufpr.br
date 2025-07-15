@@ -23,4 +23,8 @@ href = "/eventos/j3m"
 
 {{< list limit=6 title="Postagens recentes" exclude="petiscos">}}
 
-{{< list limit=6 title="PETiscos recentes" include="petiscos">}}
+{{< mais-postagens dest=/posts/ text="Mostrar mais postagens" >}}
+
+{{< list limit=6 title="PETiscos recentes" include="petiscos" >}}
+
+{{< mais-postagens dest=/tags/petiscos/ text="Mostrar mais PETiscos" >}}

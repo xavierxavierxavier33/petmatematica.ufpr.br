@@ -1,0 +1,13 @@
+{{ $dest := .Get "dest" }}
+{{ $text := .Get "text" | default "Mostrar mais" }}
+
+<div class="mt-10 flex justify-center">
+  <a href="{{ $dest }}">
+    <button class="
+        bg-neutral-200 prose font-semibold py-2 px-4 border border-neutral-500 rounded
+        hover:bg-neutral-300 hover:text-primary-500 hover:border-transparent 
+        dark:prose-invert">
+      {{- $text -}}
+    </button>
+  </a>
+</div>
