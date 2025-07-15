@@ -12,8 +12,9 @@ imagem = "arquivos/banner/bem-vindo.webp"
 alt = "Bem-vindo ao site PET Matemática UFPR"
 
 [[items]]
-imagem = "arquivos/banner/smat.webp"
-alt = "SMAT banner"
+imagem = "arquivos/banner/bdm.webp"
+alt = "BDM banner"
+href = "/eventos/bdm"
 
 [[items]]
 imagem = "arquivos/banner/j3m.webp"
