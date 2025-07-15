@@ -1,4 +1,6 @@
-<a href="{{ (partial "functions/get-resource.html" .Destination) | safeURL }}"
+{{- $link := (partial "functions/get-resource.html" .Destination) | safeURL -}}
+
+<a href="{{ $link }}"
     {{- with .Title -}}
     title="{{ . }}"
     {{- end }}

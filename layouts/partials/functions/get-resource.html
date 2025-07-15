@@ -5,7 +5,7 @@
     (not (strings.HasPrefix $link "https:")) 
     ($found := resources.Get $link) 
 -}}
-  {{- $link = $found -}}
+  {{- $link = $found.RelPermalink -}}
 {{- end -}}
 
 {{- return $link -}}
