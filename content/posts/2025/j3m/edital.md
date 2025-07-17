@@ -1,6 +1,7 @@
 +++
 title = "Edital J3M 2025"
 date = 2025-07-15T08:00:00-03:00
+lastmod = 2025-07-17T14:00:00-03:00
 draft = false
 
 tags = ["editais"]
