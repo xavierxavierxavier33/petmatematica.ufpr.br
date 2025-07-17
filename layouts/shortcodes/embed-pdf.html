@@ -85,7 +85,7 @@
 {{ $hash := substr ($pdf | md5) 0 8 }}
 
 
-<div class="mx-auto w-md">
+<div class="mx-auto md:w-md">
   <div class="embed-pdf-container" id="embed-pdf-container-{{ $hash }}">
     <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-{{ $hash }}">
       <div class="pdf-loading" id="pdf-loading-{{ $hash }}"></div>
