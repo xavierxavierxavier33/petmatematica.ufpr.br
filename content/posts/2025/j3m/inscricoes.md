@@ -7,8 +7,8 @@ tags = ["inscricoes"]
 eventos = ["j3m"]
 +++
 
-O grupo PET Matemática da Universidade Federal do Paraná, no uso de suas atribuições, após deliberações na 08ª Reunião Interna do grupo, realizada no dia 16 de maio de 2025, torna público o [Edital Normativo](/arquivos/2025/j3m/j3m_edital_2025.pdf) para estudantes que desejem participar da Jornada de Matemática, Matemática Aplicada e Educação Matemática de 2025.
+É com imenso prazer que comunicamos que a partir desta segunda-feira, 22/07, estará aberto o [formulário](https://forms.gle/rMwEZzCqnyYpZavE9) para a submissão de trabalhos para Jornada de Matemática, Matemática Aplicada e Educação Matemática. Não percam o prazo para se inscreverem, lembrando que a leitura do [edital](/posts/2024/j3m/edital) é de suma importancia.
 
-{{< embed-pdf url="/arquivos/2025/j3m/j3m_edital_2025.pdf" >}}
+As submissões de trabalhos não são restritas a trabalhos desenvolvidos na UFPR, portanto, o convite é estendido às demais universidades que quiserem participar. 
 
 Há dúvidas? Entre em [contato](mailto:j3m.ufpr@gmail.com).
