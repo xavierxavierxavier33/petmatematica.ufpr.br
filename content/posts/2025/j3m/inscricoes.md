@@ -1,5 +1,5 @@
 +++
-title = "Inscrições J3M 2025"
+title = "Inscrições abertas J3M 2025"
 date = 2025-07-21T08:00:00-03:00
 draft = false
 
