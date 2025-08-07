@@ -37,6 +37,12 @@
  pageRef = "/equipe/ex-integrantes"
  weight = 20
 
+[[main]]
+ name = "Projetos Individuais de Pesquisa"
+ parent = "Equipe"
+ pageRef = "/equipe/pesquisas"
+ weight = 30
+
 # [[main]]
 #  name = "Iniciação científica"
 #  parent = "Equipe"
