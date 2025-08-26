@@ -1,33 +1,9 @@
 [[integrantes]]
-nome = "Pedro Henrique Andrade"
-id = "pedr.a"
-imagem = "/arquivos/equipe/blank.webp"  
-bio = "Discente de bacharelado em Matemática na UFPR"
-# lattes = ""
-# orcid = ""
-
-[[integrantes]]
-nome = "Pedro Lascowski Laguna"
-id = "pedr.l"
-imagem = "/arquivos/equipe/blank.webp"  
-bio = "Discente de bacharelado em Matemática na UFPR"
-# lattes = ""
-# orcid = ""
-
-[[integrantes]]
 nome = "Ana Carla de Carvalho Honório"
 id = "ana.h"
 imagem = "/arquivos/equipe/AnaCarla.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
 lattes = "1083451815727680"
-# orcid = ""
-
-[[integrantes]]
-nome = "Isabele Andrade Vichinieski"
-id = "isab.v"
-imagem = "/arquivos/equipe/Isabele.webp"
-bio = "Discente de licenciatura em Matemática na UFPR"
-lattes = "5286796593069199"
 # orcid = ""
 
 [[integrantes]]
@@ -39,14 +15,6 @@ lattes = "4901477377340639"
 # orcid = ""
 
 [[integrantes]]
-nome = "Tiago Filipe Pires Galu"
-id = "tiag.g"
-imagem = "/arquivos/equipe/Tiago.webp"
-bio = "Discente de bacharelado em Matemática na UFPR"
-lattes = "6576831240015857"
-# orcid = "0000-0003-0804-6145"
-
-[[integrantes]]
 nome = "Augusto Henrique da Costa"
 id = "augu.c"
 imagem = "/arquivos/equipe/Augusto.webp"
@@ -55,19 +23,11 @@ lattes = "1346877141229975"
 # orcid = ""
 
 [[integrantes]]
-nome = "Felipe Monteiro Kiotheka"
-id = "feli.k"
-imagem = "/arquivos/equipe/Felipe.webp"
+nome = "Camilly Silva dos Anjos"
+id = "cami.a"
+imagem = "/arquivos/equipe/Camilly.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
-lattes = "6778511753560506"
-# orcid = ""
-
-[[integrantes]]
-nome = "Lucas Xavier"
-id = "luca.x"
-imagem = "/arquivos/equipe/blank.webp"
-bio = "Discente de bacharelado em Matemática na UFPR"
-lattes = "4326436750439921"
+lattes = "8399362000022268"
 # orcid = ""
 
 [[integrantes]]
@@ -87,6 +47,30 @@ lattes = "8700591083267309"
 # orcid = ""
 
 [[integrantes]]
+nome = "Felipe Monteiro Kiotheka"
+id = "feli.k"
+imagem = "/arquivos/equipe/Felipe.webp"
+bio = "Discente de bacharelado em Matemática na UFPR"
+lattes = "6778511753560506"
+# orcid = ""
+
+[[integrantes]]
+nome = "Isabele Andrade Vichinieski"
+id = "isab.v"
+imagem = "/arquivos/equipe/Isabele.webp"
+bio = "Discente de licenciatura em Matemática na UFPR"
+lattes = "5286796593069199"
+# orcid = ""
+
+[[integrantes]]
+nome = "Kaue Novaki João"
+id = "kaue.j"
+imagem = "/arquivos/equipe/blank.webp"
+bio = "Discente de bacharelado em Matemática na UFPR"
+lattes = "1143063992968698"
+# orcid = ""
+
+[[integrantes]]
 nome = "Laura Carolina Aymore Ferrandin"
 id = "laur.f"
 imagem = "/arquivos/equipe/Laura.webp"
@@ -102,28 +86,13 @@ bio = "Discente de licenciatura em Matemática na UFPR"
 lattes = "9372906034058963"
 # orcid = ""
 
-[[integrantes]]
-nome = "Pedro Dell'Agnolo Busarello"
-id = "pedr.b"
-imagem = "/arquivos/equipe/Pedro.webp"
-bio = "Discente de licenciatura em Matemática na UFPR"
-lattes = "5564611156874759"
-# orcid = ""
 
 [[integrantes]]
-nome = "Camilly Silva dos Anjos"
-id = "cami.a"
-imagem = "/arquivos/equipe/Camilly.webp"
-bio = "Discente de bacharelado em Matemática na UFPR"
-lattes = "8399362000022268"
-# orcid = ""
-
-[[integrantes]]
-nome = "Kaue Novaki João"
-id = "kaue.j"
+nome = "Lucas Xavier"
+id = "luca.x"
 imagem = "/arquivos/equipe/blank.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
-lattes = "1143063992968698"
+lattes = "4326436750439921"
 # orcid = ""
 
 [[integrantes]]
@@ -135,9 +104,41 @@ lattes = "9232863063992657"
 # orcid = ""
 
 [[integrantes]]
+nome = "Pedro Dell'Agnolo Busarello"
+id = "pedr.b"
+imagem = "/arquivos/equipe/Pedro.webp"
+bio = "Discente de licenciatura em Matemática na UFPR"
+lattes = "5564611156874759"
+# orcid = ""
+
+[[integrantes]]
+nome = "Pedro Henrique Andrade"
+id = "pedr.a"
+imagem = "/arquivos/equipe/blank.webp"  
+bio = "Discente de bacharelado em Matemática na UFPR"
+# lattes = ""
+# orcid = ""
+
+[[integrantes]]
+nome = "Pedro Lascowski Laguna"
+id = "pedr.l"
+imagem = "/arquivos/equipe/blank.webp"  
+bio = "Discente de bacharelado em Matemática na UFPR"
+# lattes = ""
+# orcid = ""
+
+[[integrantes]]
 nome = "Samuel Henrique Gomes Velez Benito"
 id = "samu.b"
 imagem = "/arquivos/equipe/Samuel.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
 lattes = "8750524481779681"
 # orcid = ""
+
+[[integrantes]]
+nome = "Tiago Filipe Pires Galu"
+id = "tiag.g"
+imagem = "/arquivos/equipe/Tiago.webp"
+bio = "Discente de bacharelado em Matemática na UFPR"
+lattes = "6576831240015857"
+# orcid = "0000-0003-0804-6145"
