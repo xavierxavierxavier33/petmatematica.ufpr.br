@@ -5,6 +5,7 @@ imagem = "/arquivos/equipe/AnaCarla.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
 lattes = "1083451815727680"
 # orcid = ""
+email = "anahonorio@ufpr.br"
 
 [[integrantes]]
 nome = "Andressa Balestrin Dasenbrock"
@@ -13,6 +14,7 @@ imagem = "/arquivos/equipe/Andressa.webp"
 bio = "Discente de licenciatura em Matemática na UFPR"
 lattes = "4901477377340639"
 # orcid = ""
+email = "andressa.dasenbrock@ufpr.br"
 
 [[integrantes]]
 nome = "Augusto Henrique da Costa"
@@ -21,6 +23,7 @@ imagem = "/arquivos/equipe/Augusto.webp"
 bio = "Discente de licenciatura em Matemática na UFPR"
 lattes = "1346877141229975"
 # orcid = ""
+email = "augustocosta@ufpr.br"
 
 [[integrantes]]
 nome = "Camilly Silva dos Anjos"
@@ -29,6 +32,7 @@ imagem = "/arquivos/equipe/Camilly.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
 lattes = "8399362000022268"
 # orcid = ""
+email = "camillyanjos@ufpr.br"
 
 [[integrantes]]
 nome = "Daniel Thiago Ivanchechen"
@@ -37,6 +41,7 @@ imagem = "/arquivos/equipe/blank.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
 lattes = "1532238607335084"
 # orcid = ""
+email = "daniel.ivanchechen@ufpr.br"
 
 [[integrantes]]
 nome = "Elissandro Antonio Sikora"
@@ -45,6 +50,7 @@ imagem = "/arquivos/equipe/Elissandro.webp"
 bio = "Discente de licenciatura em Matemática na UFPR"
 lattes = "8700591083267309"
 # orcid = ""
+email = "elissandrosikora@ufpr.br"
 
 [[integrantes]]
 nome = "Felipe Monteiro Kiotheka"
@@ -53,6 +59,7 @@ imagem = "/arquivos/equipe/Felipe.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
 lattes = "6778511753560506"
 # orcid = ""
+email = "felipe.kiotheka@ufpr.br"
 
 [[integrantes]]
 nome = "Isabele Andrade Vichinieski"
@@ -61,6 +68,7 @@ imagem = "/arquivos/equipe/Isabele.webp"
 bio = "Discente de licenciatura em Matemática na UFPR"
 lattes = "5286796593069199"
 # orcid = ""
+email = "isabele.vichinieski@ufpr.br"
 
 [[integrantes]]
 nome = "Kaue Novaki João"
@@ -69,6 +77,7 @@ imagem = "/arquivos/equipe/blank.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
 lattes = "1143063992968698"
 # orcid = ""
+email = "kauenovaki@ufpr.br"
 
 [[integrantes]]
 nome = "Laura Carolina Aymore Ferrandin"
@@ -77,6 +86,7 @@ imagem = "/arquivos/equipe/Laura.webp"
 bio = "Discente de licenciatura em Matemática na UFPR"
 lattes = "9575782636243113"
 # orcid = ""
+email = "lauraaymore@ufpr.br"
 
 [[integrantes]]
 nome = "Leonardo Cortez do Nascimento"
@@ -85,7 +95,7 @@ imagem = "/arquivos/equipe/Leonardo.webp"
 bio = "Discente de licenciatura em Matemática na UFPR"
 lattes = "9372906034058963"
 # orcid = ""
-
+email = "leonardo.cortez@ufpr.br"
 
 [[integrantes]]
 nome = "Lucas Xavier"
@@ -94,6 +104,7 @@ imagem = "/arquivos/equipe/blank.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
 lattes = "4326436750439921"
 # orcid = ""
+email = "xavierlucas@ufpr.br"
 
 [[integrantes]]
 nome = "Miguel Augusto Vialich"
@@ -102,6 +113,7 @@ imagem = "/arquivos/equipe/blank.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
 lattes = "9232863063992657"
 # orcid = ""
+email = "augustovialich@ufpr.br"
 
 [[integrantes]]
 nome = "Pedro Dell'Agnolo Busarello"
@@ -110,6 +122,7 @@ imagem = "/arquivos/equipe/Pedro.webp"
 bio = "Discente de licenciatura em Matemática na UFPR"
 lattes = "5564611156874759"
 # orcid = ""
+email = "pedrobusarello@ufpr.br"
 
 [[integrantes]]
 nome = "Pedro Henrique Andrade"
@@ -118,6 +131,7 @@ imagem = "/arquivos/equipe/blank.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
 # lattes = ""
 # orcid = ""
+email = "pedroandrade@ufpr.br"
 
 [[integrantes]]
 nome = "Pedro Lascowski Laguna"
@@ -126,6 +140,7 @@ imagem = "/arquivos/equipe/blank.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
 # lattes = ""
 # orcid = ""
+email = "pedro.laguna@ufpr.br"
 
 [[integrantes]]
 nome = "Samuel Henrique Gomes Velez Benito"
@@ -134,6 +149,7 @@ imagem = "/arquivos/equipe/Samuel.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
 lattes = "8750524481779681"
 # orcid = ""
+email = "samuelbenito@ufpr.br"
 
 [[integrantes]]
 nome = "Tiago Filipe Pires Galu"
@@ -142,3 +158,4 @@ imagem = "/arquivos/equipe/Tiago.webp"
 bio = "Discente de bacharelado em Matemática na UFPR"
 lattes = "6576831240015857"
 # orcid = "0000-0003-0804-6145"
+email = "tiago.galu@ufpr.br"
