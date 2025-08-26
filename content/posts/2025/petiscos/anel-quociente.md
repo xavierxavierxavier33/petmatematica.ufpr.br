@@ -1,7 +1,7 @@
 +++
 title = "Um anel quociente conveniente"
-date = 2025-06-01T08:00:00-03:00
-draft = true
+date = 2025-08-26T08:00:00-03:00
+draft = false
 
 tags = ["petiscos"]
 eventos = []
