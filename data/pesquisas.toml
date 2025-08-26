@@ -1,0 +1,107 @@
+[[pesquisas]]
+petiano = "ana.h"
+orientador = "Juan Sebastian Herrera Carmona"
+area = "Fundamentos de Matemática, Álgebra e Geometria"
+titulo = "Estudo introdutório à teoria de categorias."
+
+[[pesquisas]]
+petiano = "andr.d"
+orientador = "Gabriel dos Santos e Silva"
+area = "Educação Matemática"
+titulo = "Um estudo do pensamento algébrico em tarefas não-rotineiras de Matemática."
+
+[[pesquisas]]
+petiano = "augu.c"
+orientador = "Cléber de Medeira"
+area = "Análise"
+titulo = "Análise de Fourier e Aplicações em EDP’s."
+
+[[pesquisas]]
+petiano = "cami.a"
+orientador = "Tanise Carnieri Pierin"
+area = "Álgebra"
+titulo = "Álgebras de caminhos e o Teorema de Gabriel."
+
+[[pesquisas]]
+petiano = "danie.i"
+orientador = "Fernando de Ávila Silva"
+area = "Análise Matemática"
+titulo = "Hipoeliticidade e Resolubilidade de Campos Vetoriais no Toro Bidimensional."
+
+[[pesquisas]]
+petiano = "elis.s"
+orientador = "Wagner Augusto Almeida de Moraes"
+area = "Análise"
+titulo = "Um estudo comparativo entre os espaços Lp clássicos e os espaços Lp com expoente variável."
+
+[[pesquisas]]
+petiano = "feli.k"
+orientador = "Carloa Eduardo Durán Fernández"
+area = "Geometria e Topologia"
+titulo = "Desenvolvimentos da Teoria dos Nós."
+
+[[pesquisas]]
+petiano = "isab.v"
+orientador = "Gabriel dos Santos e Silva"
+area = "Educação Matemática"
+titulo = "Uma análise bibliográfica acerca das definições dos diferentes tipos de Pensamento Algébrico."
+
+[[pesquisas]]
+petiano = "kaue.j"
+orientador = "Cleber de Medeira"
+area = "Análise"
+titulo = "Um estudo qualitativo de sistemas planares de equações diferenciais."
+
+[[pesquisas]]
+petiano = "laur.f"
+orientador = "Emerson Rolkouski"
+area = "Educação Matemática"
+titulo = "A prática avaliativa na matemática: uma perspectiva montessoriana."
+
+[[pesquisas]]
+petiano = "leon.n"
+orientador = "Wagner Augusto Almeida de Moraes"
+area = "Análise e Equações Diferenciais"
+titulo = "Introdução à Teoria das Distribuições."
+
+[[pesquisas]]
+petiano = "luca.x"
+orientador = "Wagner Augusto Almeida de Moraes"
+area = "Álgebra"
+titulo = "Uma introdução a Teoria das Categorias."
+
+[[pesquisas]]
+petiano = "migu.v"
+orientador = "María Rosario Astudillo Rojas"
+area = "Análise"
+titulo = "Análise de Séries e o Problema de Basileia."
+
+[[pesquisas]]
+petiano = "pedr.a"
+orientador = "Juan Sebastian Herrera Carmona"
+area = "Fundamentos de Matemática, Álgebra e Geometria"
+titulo = "Estudo introdutório à teoria de categorias."
+
+[[pesquisas]]
+petiano = "pedr.b"
+orientador = "Emerson Rolkouski"
+area = "Educação Matemática"
+titulo = "Estudo sobre o ESMATE à luz da Hermenêutica de Profundidade."
+
+[[pesquisas]]
+petiano = "pedr.l"
+orientador = "Pedro Danizete Damázio"
+area = "Análise"
+titulo = "A Função Gama de Euler."
+
+[[pesquisas]]
+petiano = "samu.b"
+orientador = "Pedro Danizete Damázio"
+area = "Análise"
+titulo = "Estudo de Espaços Funcionais de Dimensão Infinita."
+
+[[pesquisas]]
+petiano = "tiag.g"
+orientador = "Diego Mano Otero"
+area = "Análise e Geometria"
+titulo = "Fundamentos de Cálculo das Variações."

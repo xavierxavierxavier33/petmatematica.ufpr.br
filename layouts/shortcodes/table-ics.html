@@ -1,0 +1,32 @@
+{{ $pesquisas := .Site.Data.pesquisas.pesquisas }}
+{{ $integrantes := .Site.Data.integrantes.integrantes }}
+
+{{ $s := newScratch }}
+{{ range seq 0 (sub (len $pesquisas) 1) }}
+    {{ $s.Set (printf "%d" .) (index $pesquisas .) }}
+    {{ $petiano := index (where $integrantes "id" (index $pesquisas .).petiano) 0 }}
+    {{ $s.SetInMap (printf "%d" .) "nome" $petiano.nome }}
+{{ end }}
+
+{{ $pesquisas := sort $s.Values "nome" }}
+
+<table>
+  <thead>
+    <tr>
+      <th>Aluno(a)</th>
+      <th>Orientador(a)</th>
+      <th>Área de concentração</th>
+      <th>Título do Trabalho</th>
+    </tr>
+  </thead>
+  <tbody>
+  {{ range $pesquisas }}
+    <tr>
+      <td>{{ .nome }}</td>
+      <td>{{ .orientador }}</td>
+      <td>{{ .area }}</td>
+      <td>{{ .titulo }}</td>
+    </tr>
+  {{ end }}
+  </tbody>
+</table>
