@@ -1,28 +1,32 @@
 {{- $args := . -}}
 
+{{ $hasInclude := ne (len .include) 0 }}
+{{ $hasExclude := ne (len .exclude) 0 }}
+
 {{ $include := split .include "," }}
 {{ $exclude := split .exclude "," }}
 {{ $posts := slice }}
 
 {{- range $page := .ctx.Site.RegularPages -}}
+    {{ $isOk := not $hasInclude }} <!-- se tem include, então começa em false --> 
     {{- range $tag := $page.Params.tags }}
-        {{ $isOk := le 0 (len $include) }} <!-- se tem include, então começa em false --> 
-    
         {{- range $pattern := $include -}}
             {{- if eq $pattern $tag -}}
                 {{ $isOk = true }}
             {{- end -}}
         {{- end -}}
+    {{- end -}}
 
+    {{- range $tag := $page.Params.tags }}
         {{- range $pattern := $exclude -}}
             {{- if eq $pattern $tag -}}
                 {{ $isOk = false }}
             {{- end -}}
         {{- end -}}
+    {{- end -}}
 
-        {{- if $isOk -}}
-            {{- $posts = append $page $posts -}}
-        {{- end -}}
+    {{- if $isOk -}}
+        {{- $posts = append $page $posts -}}
     {{- end -}}
 {{- end -}}
 
