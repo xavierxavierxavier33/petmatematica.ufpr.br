@@ -8,7 +8,7 @@ draft = false
 interval = "1000"
 
 [[items]]
-imagem = "arquivos/banner/bem-vindo.webp"
+imagem = "arquivos/banner/equipe.webp"
 alt = "Bem-vindo ao site PET Matemática UFPR"
 
 [[items]]
