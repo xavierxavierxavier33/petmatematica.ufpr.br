@@ -75,7 +75,7 @@ weight = 20
 [[main]]
 name = "Semana da Matemática"
 parent = "Eventos"
-pageRef = "/equipe/semana-da-matematica"
+pageRef = "/eventos/sdm"
 weight = 40
 
 # [[main]]
