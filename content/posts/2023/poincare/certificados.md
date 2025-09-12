@@ -1,5 +1,5 @@
 +++
-title = "Certificados Seminários Henri-Poincaré"
+title = "Certificados Seminários Henri-Poincaré 2023"
 date = 2023-07-07T08:00:00-03:00
 draft = false
 
