@@ -16,38 +16,32 @@
 #  weight = 10
 
 [[main]]
- name = "Sobre"
- pageRef = "/sobre"
- weight = 20
+name = "Sobre"
+pageRef = "/sobre"
+weight = 20
 
 [[main]]
- name = "Equipe"
- pageRef = "/equipe"
- weight = 30
+name = "Equipe"
+pageRef = "/equipe"
+weight = 30
 
 [[main]]
- name = "Integrantes"
- parent = "Equipe"
- pageRef = "/equipe/integrantes"
- weight = 10
+name = "Integrantes"
+parent = "Equipe"
+pageRef = "/equipe/integrantes"
+weight = 10
 
 [[main]]
- name = "Ex-integrantes"
- parent = "Equipe"
- pageRef = "/equipe/ex-integrantes"
- weight = 20
+name = "Ex-integrantes"
+parent = "Equipe"
+pageRef = "/equipe/ex-integrantes"
+weight = 20
 
 [[main]]
- name = "Projetos Individuais de Pesquisa"
- parent = "Equipe"
- pageRef = "/equipe/pesquisas"
- weight = 30
-
-# [[main]]
-#  name = "Iniciação científica"
-#  parent = "Equipe"
-#  pageRef = "/equipe/iniciacao-cientifica"
-#  weight = 30
+name = "Projetos Individuais de Pesquisa"
+parent = "Equipe"
+pageRef = "/equipe/pesquisas"
+weight = 30
 
 # [[main]]
 #  name = "Galeria"
@@ -56,21 +50,21 @@
 #  active = false
 
 [[main]]
- name = "Eventos"
- pareRef = "/eventos"
- weight = 40
+name = "Eventos"
+pareRef = "/eventos"
+weight = 40
 
 [[main]]
- name = "J3M (Jornada da Matemática)"
- parent = "Eventos"
- pageRef = "/eventos/j3m"
- weight = 10
+name = "J3M (Jornada da Matemática)"
+parent = "Eventos"
+pageRef = "/eventos/j3m"
+weight = 10
 
 [[main]]
- name = "Brincando de Matemático"
- parent = "Eventos"
- pageRef = "/eventos/bdm"
- weight = 20
+name = "Brincando de Matemático"
+parent = "Eventos"
+pageRef = "/eventos/bdm"
+weight = 20
 
 # [[main]]
 #  name = "Brincando de Matemático Junior"
@@ -78,11 +72,11 @@
 #  pageRef = "/eventos/brincando-de-matematico-junior"
 #  weight = 30
 
-# [[main]]
-#  name = "Semana da Matemática"
-#  parent = "Eventos"
-#  pageRef = "/equipe/semana-da-matematica"
-#  weight = 40
+[[main]]
+name = "Semana da Matemática"
+parent = "Eventos"
+pageRef = "/equipe/semana-da-matematica"
+weight = 40
 
 # [[main]]
 #  name = "Seminário Henri-Poincaré"
@@ -97,56 +91,56 @@
 #  weight = 40
 
 [[main]]
- name = "Documentos"
- pareRef = "/documentos"
- weight = 50
+name = "Documentos"
+pareRef = "/documentos"
+weight = 50
 
 [[main]]
- name = "Certificados"
- parent = "Documentos"
- pageRef = "/tags/certificados"
- weight = 10
+name = "Certificados"
+parent = "Documentos"
+pageRef = "/tags/certificados"
+weight = 10
 
 [[main]]
- name = "MOBPET"
- parent = "Documentos"
- url = "/arquivos/documentos/mobpet.pdf"
- weight = 20
+name = "MOBPET"
+parent = "Documentos"
+url = "/arquivos/documentos/mobpet.pdf"
+weight = 20
 
 [[main]]
- name = "Portaria nº 976"
- parent = "Documentos"
- url = "/arquivos/documentos/portaria_976.pdf"
- weight = 30
+name = "Portaria nº 976"
+parent = "Documentos"
+url = "/arquivos/documentos/portaria_976.pdf"
+weight = 30
 
 [[main]]
- name = "Resolução nº 30/14-CEPE"
- parent = "Documentos"
- url = "/arquivos/documentos/cepe_3014.pdf"
- weight = 40
+name = "Resolução nº 30/14-CEPE"
+parent = "Documentos"
+url = "/arquivos/documentos/cepe_3014.pdf"
+weight = 40
 
 [[main]]
- name = "PETiscos"
- pageRef = "/tags/petiscos"
- weight = 50
+name = "PETiscos"
+pageRef = "/tags/petiscos"
+weight = 50
 
 [[main]]
- pre = "instagram"
- identifier = "instagram"
- url = "https://www.instagram.com/petmatematicaufpr/"
- weight = 60
+pre = "instagram"
+identifier = "instagram"
+url = "https://www.instagram.com/petmatematicaufpr/"
+weight = 60
 
 [[main]]
- pre = "tiktok"
- identifier = "tiktok"
- url = "https://www.tiktok.com/@petmatematicaufpr"
- weight = 70
+pre = "tiktok"
+identifier = "tiktok"
+url = "https://www.tiktok.com/@petmatematicaufpr"
+weight = 70
 
- [[main]]
- pre = "youtube"
- identifier = "youtube"
- url = "https://www.youtube.com/channel/UC8EWvUqRiJerNlxfpy0lILg"
- weight = 80
+[[main]]
+pre = "youtube"
+identifier = "youtube"
+url = "https://www.youtube.com/channel/UC8EWvUqRiJerNlxfpy0lILg"
+weight = 80
 
 # [[subnavigation]]
 #  name = "An interesting topic"
@@ -164,9 +158,9 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-  name = "Contato"
-  pageRef = "/contato"
-  weight = 10
+name = "Contato"
+pageRef = "/contato"
+weight = 10
 
 # [[footer]]
 #   name = "Categories"
