@@ -6,4 +6,4 @@ groupByYear = false
 showdate = false
 +++
 
-{{< table-ics >}}
+{{< tabela-ics >}}
