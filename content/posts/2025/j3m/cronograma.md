@@ -1,6 +1,7 @@
 +++
 title = "Cronograma J3M 2025"
 date = 2025-10-20T08:00:00-03:00
+lastmod = 2025-10-20T20:00:00-03:00
 draft = false
 
 tags = ["cronograma"]
@@ -8,6 +9,8 @@ eventos = ["j3m"]
 +++
 
 {{< katex >}}
+
+Estamos empolgados em anunciar o cronograma da 9ª edição da J3M (Jornada de Matemática, Matemática Aplicada e Educação Matemática). Acompanhe nossas publicações para não perder nada dos quatro dias de programação. E não se esqueça de participar na Cerimônia de abertura e Cerimônia de Premiação.
 
 {{< details summary="Segunda-feira 10/11/2025" >}}
 |   Horários  |                                       Anfiteatro A                                       |                                                              Anfiteatro B                                                             |
@@ -105,3 +108,9 @@ eventos = ["j3m"]
 | 18h10-19h   | Show Banda Altitab                   |
 | 19h-        | Cerimônia de premiação               |
 {{< /details >}}
+
+Lembre-se: as inscrições de ouvintes vão até 28/10/2025.
+
+Esse cronograma está sujeito a mudanças e será atualizado aqui.
+
+Contamos com a sua presença!
