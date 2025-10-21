@@ -109,7 +109,7 @@ Estamos empolgados em anunciar o cronograma da 9ª edição da J3M (Jornada de M
 | 19h-        | Cerimônia de premiação               |
 {{< /details >}}
 
-Lembre-se: as inscrições de ouvintes vão até 28/10/2025.
+Lembre-se: as [inscrições de ouvintes](https://forms.gle/QfLMAzr4B7ZVByLWA) vão até 28/10/2025.
 
 Esse cronograma está sujeito a mudanças e será atualizado aqui.
 
