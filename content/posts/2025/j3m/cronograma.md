@@ -1,7 +1,7 @@
 +++
 title = "Cronograma J3M 2025"
 date = 2025-10-20T08:00:00-03:00
-lastmod = 2025-10-20T20:00:00-03:00
+lastmod = 2025-10-23T20:00:00-03:00
 draft = false
 
 tags = ["cronograma"]
