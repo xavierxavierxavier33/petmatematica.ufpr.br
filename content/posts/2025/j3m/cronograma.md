@@ -1,7 +1,7 @@
 +++
 title = "Cronograma J3M 2025"
 date = 2025-10-20T08:00:00-03:00
-lastmod = 2025-10-23T20:00:00-03:00
+lastmod = 2025-10-25T16:00:00-03:00
 draft = false
 
 tags = ["cronograma"]
@@ -11,6 +11,9 @@ eventos = ["j3m"]
 {{< katex >}}
 
 Temos o prazer de anunciar o cronograma da 9ª edição da J3M (Jornada de Matemática, Matemática Aplicada e Educação Matemática). Convidamos todos a acompanhar nossas publicações e a participar ativamente das atividades ao longo dos cinco dias de programação. Não deixe de prestigiar a Cerimônia de Abertura e a Cerimônia de Premiação.
+
+Todas as apresentações de trabalhos da J3M serão realizadas nos Anfiteatros A e B do Bloco PC, no Setor de Ciências Exatas, Centro Politécnico da UFPR.
+Endereço: Rua Evaristo F. Ferreira da Costa, 406- Jardim das Américas, Curitiba – PR, 82590-300.
 
 {{< details summary="Segunda-feira 10/11/2025" >}}
 |   Horários  |                                       Anfiteatro A                                       |                                                              Anfiteatro B                                                             |
@@ -101,6 +104,7 @@ Temos o prazer de anunciar o cronograma da 9ª edição da J3M (Jornada de Matem
 | 14h40-15h05 | Sobre a existência de uma base para cada espaço vetorial — Eric Steffan Budal da Costa |               Regina Buriasco e Avaliação: intersecções entre o vivido e o pesquisado, a partir da História Oral — Sibeli da Rosa Da Rocha               |
 | 15h05-15h30 |                      Introdução à Teoria de Códigos — Lucas Bisoni                     |                      Educação Financeira e Mulheres: Histórias, Desafios e Impactos na Formação Docente — Marjory Castelhone Camargo                     |
 | 15h30-15h45 |                                      Coffee break                                      |                                                                       Coffee break                                                                       |
+| 15h45-17h00 |Lançamento do livro: Elas Contam e Encantam: Mulheres na Matemática da UFPR — Profª Dra. Paula Rogéria Lima Couto|                                                                                                                                 |
 
 | Horários    | Auditório do Departamento de Química |
 |-------------|--------------------------------------|
