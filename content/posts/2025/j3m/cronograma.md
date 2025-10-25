@@ -10,7 +10,7 @@ eventos = ["j3m"]
 
 {{< katex >}}
 
-Estamos empolgados em anunciar o cronograma da 9ª edição da J3M (Jornada de Matemática, Matemática Aplicada e Educação Matemática). Acompanhe nossas publicações para não perder nada dos quatro dias de programação. E não se esqueça de participar na Cerimônia de abertura e Cerimônia de Premiação.
+Temos o prazer de anunciar o cronograma da 9ª edição da J3M (Jornada de Matemática, Matemática Aplicada e Educação Matemática). Convidamos todos a acompanhar nossas publicações e a participar ativamente das atividades ao longo dos cinco dias de programação. Não deixe de prestigiar a Cerimônia de Abertura e a Cerimônia de Premiação.
 
 {{< details summary="Segunda-feira 10/11/2025" >}}
 |   Horários  |                                       Anfiteatro A                                       |                                                              Anfiteatro B                                                             |
@@ -105,7 +105,7 @@ Estamos empolgados em anunciar o cronograma da 9ª edição da J3M (Jornada de M
 | Horários    | Auditório do Departamento de Química |
 |-------------|--------------------------------------|
 | 17h30-18h10 | Confraternização & Coffee Break      |
-| 18h10-19h   | Show Banda Altitab                   |
+| 18h10-19h   | Apresentação da Banda Altitab        |
 | 19h-        | Cerimônia de premiação               |
 {{< /details >}}
 
