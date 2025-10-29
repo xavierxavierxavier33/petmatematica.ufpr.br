@@ -8,7 +8,7 @@ eventos = []
 
 showAuthor = true
 autores = ["pedr.a"]
-revisores = ["Juan Sebastián Herrera Carmona"]
+revisores = ["juan.c"]
 +++
 
 {{< katex >}}

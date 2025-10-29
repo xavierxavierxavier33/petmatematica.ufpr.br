@@ -86,7 +86,7 @@
           {{ end }}
         </div>
 
-      {{ $authorsData := partial "functions/get-people.html" . }}
+      {{ $peopleData := partial "functions/get-people.html" . }}
       {{ $taxonomies := .Site.Taxonomies.autores }}
 
       {{ $baseURL := .Site.BaseURL }}
@@ -100,7 +100,7 @@
         {{ $first := true }}
 
         {{ range $author := .Page.Params.autores }}
-          {{ $authorData := $authorsData.Get $author }}
+          {{ $authorData := $peopleData.Get $author }}
           {{- if $authorData -}}
             {{ range $taxonomyname, $taxonomy := $taxonomies }}
               {{ if (eq $taxonomyname $author) }}
@@ -108,6 +108,19 @@
               {{ end }}
             {{ end }}
             {{ partial "author.html" (dict "context" . "data" $authorData "link" $taxonomyLink "first" $first) }}
+            {{ $first = false }}
+          {{- end -}}
+        {{ end }}
+
+        {{ range $revisor := .Page.Params.revisores }}
+          {{ $revisorData := $peopleData.Get $revisor }}
+          {{- if $revisorData -}}
+            {{ range $taxonomyname, $taxonomy := $taxonomies }}
+              {{ if (eq $taxonomyname $revisor) }}
+                {{ $taxonomyLink = delimit (slice $baseURL "revisores/" $revisor "/") "" }}
+              {{ end }}
+            {{ end }}
+            {{ partial "revisor.html" (dict "context" . "data" $revisorData "link" $taxonomyLink "first" $first) }}
             {{ $first = false }}
           {{- end -}}
         {{ end }}

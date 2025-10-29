@@ -3,6 +3,7 @@
 {{- $integrantes := $ctx.Site.Data.integrantes.integrantes -}}
 {{- $ex_integrantes := $ctx.Site.Data.ex_integrantes.exIntegrantes -}}
 {{- $ex_tutores := $ctx.Site.Data.ex_tutores.exTutores -}}
+{{- $revisores := $ctx.Site.Data.revisores.revisores -}}
 {{- $tutor := $ctx.Site.Data.tutor.tutor -}}
 
 {{- $people := collections.NewScratch -}}
@@ -20,6 +21,12 @@
 {{- end -}}
 
 {{- range $person := $ex_tutores -}}
+    {{- if $person.id }}
+        {{ $people.Set $person.id $person }}
+    {{- end -}}
+{{- end -}}
+
+{{- range $person := $revisores -}}
     {{- if $person.id }}
         {{ $people.Set $person.id $person }}
     {{- end -}}
