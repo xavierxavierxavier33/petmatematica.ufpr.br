@@ -10,9 +10,9 @@ linkTitle = "J3M"
 
 ## Postagens imporantes
 
-- Para ver os horários das apresentação, vide o [Cronograma](posts/2025/j3m/cronograma);
-- No [Caderno de resumos](posts/2025/j3m/caderno-de-resumos) constam todos os resumos que serão apresentados;
-- O [Edital](posts/2025/j3m/edital) regula as inscrições, resumos e apresentações.
+- Para ver os horários das apresentação, vide o [Cronograma](/posts/2025/j3m/cronograma);
+- No [Caderno de resumos](/posts/2025/j3m/caderno-de-resumos) constam todos os resumos que serão apresentados;
+- O [Edital](/posts/2025/j3m/edital) regula as inscrições, resumos e apresentações.
 
 ## Sobre
 
