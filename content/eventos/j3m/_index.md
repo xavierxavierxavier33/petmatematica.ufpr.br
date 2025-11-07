@@ -8,6 +8,14 @@ linkTitle = "J3M"
 
 {{< img-w-full image="arquivos/banner/j3m.webp" alt="Jornada de Matemática, Matemática Aplicada e Educação Matemática" >}}
 
+## Postagens imporantes
+
+- Para ver os horários das apresentação, vide o [Cronograma](posts/2025/j3m/cronograma);
+- No [Caderno de resumos](posts/2025/j3m/caderno-de-resumos) constam todos os resumos que serão apresentados;
+- O [Edital](posts/2025/j3m/edital) regula as inscrições, resumos e apresentações.
+
+## Sobre
+
 A grande demanda de alunos de graduação interessados em desenvolver e divulgar projetos de pesquisa foi gatilho para decidirmos criar um evento no qual eles possam:
 
 - apresentar os resultados de seus projetos;
