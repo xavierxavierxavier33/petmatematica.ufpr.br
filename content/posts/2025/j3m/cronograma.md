@@ -104,7 +104,7 @@ Endereço: Rua Evaristo F. Ferreira da Costa, 406- Jardim das Américas, Curitib
 | 14h40-15h05 | Sobre a existência de uma base para cada espaço vetorial — Eric Steffan Budal da Costa |               Regina Buriasco e Avaliação: intersecções entre o vivido e o pesquisado, a partir da História Oral — Sibeli da Rosa Da Rocha               |
 | 15h05-15h30 |                      Introdução à Teoria de Códigos — Lucas Bisoni                     |                      Educação Financeira e Mulheres: Histórias, Desafios e Impactos na Formação Docente — Marjory Castelhone Camargo                     |
 | 15h30-15h45 |                                      Coffee break                                      |                                                                       Coffee break                                                                       |
-| 15h45-17h00 |Lançamento do livro: Elas Contam e Encantam: Mulheres na Matemática da UFPR — Profª Dra. Paula Rogéria Lima Couto|                                                                                                                                 |
+| 16h00-17h00 |Lançamento do livro: Elas Contam e Encantam: Mulheres na Matemática da UFPR — Profª Dra. Paula Rogéria Lima Couto|                                                                                                                                 |
 
 | Horários    | Auditório do Departamento de Química |
 |-------------|--------------------------------------|
