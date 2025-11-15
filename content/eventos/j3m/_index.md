@@ -12,7 +12,9 @@ linkTitle = "J3M"
 
 - Para ver os horários das apresentação, vide o [Cronograma](/posts/2025/j3m/cronograma);
 - No [Caderno de resumos](/posts/2025/j3m/caderno-de-resumos) constam todos os resumos que serão apresentados;
-- O [Edital](/posts/2025/j3m/edital) regula as inscrições, resumos e apresentações.
+- O [Edital](/posts/2025/j3m/edital) regula as inscrições, resumos e apresentações;
+- A [live](https://www.youtube.com/live/h2FC41b4OoI?si=9JP9imob_qhE8BHK) da cerimônia de encerramento;
+- A [Tabela](/posts/2025/j3m/premiacao) de excelências acadêmicas e menções honrosas.
 
 ## Sobre
 
